@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.error {
+    font-size: 14px;
+    color: red;
+    margin-top: 3px;
+    margin-left: 2px;
+}
